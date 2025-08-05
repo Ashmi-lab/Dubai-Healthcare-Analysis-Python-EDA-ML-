@@ -38,7 +38,7 @@ https://github.com/Ashmi-lab/Dubai-Healthcare-Analysis-Python-EDA-ML-.git
 
 For a fully interactive online experience without local setup, launch this notebook on Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/your-github-username/dubai-healthcare-analysis/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ashmi-lab/Dubai-Healthcare-Analysis-Python-EDA-ML-/HEAD?urlpath=Dubai_Healthcare_Analysis+%281%29.ipynb)
 
 ## Dependencies
 
@@ -50,13 +50,6 @@ For a fully interactive online experience without local setup, launch this noteb
 - panel
 - pandas
 
-## License
-
-This project is shared for educational and research purposes.
-
-## Contact
-
-For questions, feedback, and contributions, please open an issue or submit a pull request.
 
 ---
 
